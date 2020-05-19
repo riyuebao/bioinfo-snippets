@@ -1,0 +1,35 @@
+TCGA.CancerID	TCGA.Description	OncoKB.OncoTree
+ACC	Adrenocortical carcinoma	ACC
+BLCA	Bladder Urothelial Carcinoma	BLCA
+BRCA	Breast invasive carcinoma	BRCA
+CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	CESC
+CHOL	Cholangiocarcinoma	CHOL
+COAD	Colon adenocarcinoma	COAD
+DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	DLBCLNOS
+GBM	Glioblastoma multiforme	GBM
+HNSC	Head and Neck squamous cell carcinoma	HNSC
+KICH	Kidney Chromophobe	CCPRC
+KIRC	Kidney renal clear cell carcinoma	CCRCC
+KIRP	Kidney renal papillary cell carcinoma	PRCC
+LAML	Acute Myeloid Leukemia	AML
+LGG	Brain Lower Grade Glioma	LGGNOS
+LIHC	Liver hepatocellular carcinoma	HCC
+LUAD	Lung adenocarcinoma	LUAD
+LUSC	Lung squamous cell carcinoma	LUSC
+MESO	Mesothelioma	PLMESO
+OV	Ovarian serous cystadenocarcinoma	SOC
+PAAD	Pancreatic adenocarcinoma	PAAD
+PCPG	Pheochromocytoma and Paraganglioma	PGNG
+PRAD	Prostate adenocarcinoma	PRAD
+READ	Rectum adenocarcinoma	READ
+SARC	Sarcoma	SARCNOS
+SKCM	Skin Cutaneous Melanoma, primary	SKCM
+SKCMmets	Skin Cutaneous Melanoma, metastatic	SKCM
+TGCT	Testicular Germ Cell Tumors	TGCT
+THCA	Thyroid carcinoma	THPA
+THYM	Thymoma	THYM
+UCEC	Uterine Corpus Endometrial Carcinoma	UCEC
+UCS	Uterine Carcinosarcoma	UCS
+UVM	Uveal Melanoma	UM
+ESCA	Esophageal carcinoma	ESCA
+STAD	Stomach adenocarcinoma	STAD
