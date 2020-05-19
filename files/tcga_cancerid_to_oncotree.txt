@@ -23,8 +23,7 @@ PCPG	Pheochromocytoma and Paraganglioma	PGNG
 PRAD	Prostate adenocarcinoma	PRAD
 READ	Rectum adenocarcinoma	READ
 SARC	Sarcoma	SARCNOS
-SKCM	Skin Cutaneous Melanoma, primary	SKCM
-SKCMmets	Skin Cutaneous Melanoma, metastatic	SKCM
+SKCM	Skin Cutaneous Melanoma	SKCM
 TGCT	Testicular Germ Cell Tumors	TGCT
 THCA	Thyroid carcinoma	THPA
 THYM	Thymoma	THYM
