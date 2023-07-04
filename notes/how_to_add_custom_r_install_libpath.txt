@@ -1,0 +1,11 @@
+
+open R in your command window
+within R:
+
+append your custom path to .libPaths()
+>.libPaths( c( "/ihome/rbao/rib37/R/x86_64-pc-linux-gnu-library/4.3" , .libPaths() ) )
+
+next time when you open R...
+> .libPaths()
+[1] "/ihome/rbao/rib37/R/x86_64-pc-linux-gnu-library/4.3"
+[2] "/ihome/crc/install/gcc-12.2.0/r/4.3.0/lib64/R/library"
